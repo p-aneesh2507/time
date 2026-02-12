@@ -26,7 +26,7 @@ h2{
 body{
     min-height: 100vh;
     margin: 0;
-    background-image: url("time2.jpeg");
+    background-color:black
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
