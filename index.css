@@ -26,7 +26,7 @@ h2{
 body{
     min-height: 100vh;
     margin: 0;
-    background-image:url("index.jpeg");
+    background-image:url(index.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
